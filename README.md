@@ -64,10 +64,10 @@ Acesse o aplicativo em seu navegador em http://localhost:3000.
 
 ## Desenvolvimento de Novas Features
 
-- [x] Criação de pasta na nuvem para armazenamento de imagens
-- [x] Conexão com o banco de dados
-- [x] Criação do model de personagens
-- [x] Criação dos endpoints de personagens
+- [ ] Criação de pasta na nuvem para armazenamento de imagens
+- [ ] Conexão com o banco de dados
+- [ ] Criação do model de personagens
+- [ ] Criação dos endpoints de personagens
 - [ ] Criação do model de lugares
 - [ ] Criação dos endpoints de lugares
 - [ ] Criação do design do site utilizando o Figma
@@ -92,4 +92,4 @@ Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICE
 
 ---
 
-Desenvolvido por [Felipe Santos](https://github.com/FelipeSantos92Dev) e [Caique Naimi](https://github.com/caiquenaimi).
+Desenvolvido por [Felipe Santos](https://github.com/FelipeSantos92Dev), [Caique Naimi](https://github.com/caiquenaimi) e [Gabriel Caurin](https://github.com/caurinSENAI)
