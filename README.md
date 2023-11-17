@@ -66,7 +66,7 @@ Acesse o aplicativo em seu navegador em http://localhost:3000.
 
 - [ ] Criação de pasta na nuvem para armazenamento de imagens
 - [ ] Conexão com o banco de dados
-- [ ] Criação do model de personagens
+- [X] Criação do model de personagens
 - [ ] Criação dos endpoints de personagens
 - [ ] Criação do model de lugares
 - [ ] Criação dos endpoints de lugares
